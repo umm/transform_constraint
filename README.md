@@ -2,21 +2,23 @@
 
 ## What
 
-* 
+* Utility for constraint transform on Unity3D
 
 ## Requirement
 
-* 
+* Nothing 
 
 ## Install
 
 ```shell
-yarn add "umm@transform_constraint#^1.0.0"
+yarn add "umm/transform_constraint#^1.0.0"
 ```
 
 ## Usage
 
-* 
+See [Examples](./Assets/Examples/)
+
+![transform_constraint_demo](./art/transform_constraint_demo.gif)
 
 ## License
 
