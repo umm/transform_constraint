@@ -16,9 +16,11 @@ yarn add "umm/transform_constraint#^1.0.0"
 
 ## Usage
 
-See [Examples](./Assets/Examples/)
+MoveAreaConstraint
 
 ![transform_constraint_demo](./art/transform_constraint_demo.gif)
+
+More details, see [Examples](./Assets/Examples/)
 
 ## License
 
