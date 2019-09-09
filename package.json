@@ -1,6 +1,6 @@
 {
   "name": "@umm/transform_constraint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility for constraint transforms",
   "homepage": "https://github.com/umm/transform_constraint",
   "bugs": {
